@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="Nền">
+    <file>search.png</file>
+    <file>PREVIEW.png</file>
+    <file>Time.png</file>
+    <file>inputfile.png</file>
+    <file>PREDICT.png</file>
+    <file>background.png</file>
+    <file>intro.png</file>
+    <file>uehlogo.png</file>
+  </qresource>
+</RCC>
